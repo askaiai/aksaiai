@@ -1,2 +1,3 @@
-# aksaiai
-地址发布
+## AskAI
+
+使用地址：https://ai.askaiw.com
